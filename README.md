@@ -7,3 +7,5 @@ Explore
 The Explore tab of your everything images. All the latest and best ones provide here to served you in a better way for your day. Explore more and more and get inspired
 
  Happy exploring!
+
+ Its just a demo site!
