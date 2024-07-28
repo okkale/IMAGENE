@@ -1,0 +1,4 @@
+html
+
+a tag-
+      target=_blank for opening any page in new tab

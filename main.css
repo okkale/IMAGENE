@@ -9,6 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .main-img {
@@ -16,13 +17,26 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-
+    animation: blur 0.2s;
 }
 
 .content {
     margin-top: 70px;
     font-family: "Libre Baskerville", serif;
     font-weight: 500;
+
+}
+
+@keyframes blur {
+    from {
+        opacity: 1;
+        scale: 1;
+    }
+
+    to {
+        opacity: 0.2;
+        scale: 0.5;
+    }
 }
 
 .content header {
